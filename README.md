@@ -17,17 +17,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=AlisherOkhunov96&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
 
 <!-- <a href="#"> -->
-<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlisherOkhunov96&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="AlisherOkhunov96 github stats" /></a> -->
-<a href="#">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlisherOkhunov96&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</a>
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+OkhunovAlisher ;I+SPECIALIZE+===+WEB+DEVELOPMENT;I+EXPERTISE+>+2+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg) -->
- 
-<!--  <div align="center"> -->
-<!--   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=OkhunovAlisher&theme=react-dark&hide_border=true&area=true" />  -->
-<!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=OkhunovAlisher&theme=react-dark&hide_border=true&area=true) -->
-<!-- </div>  -->
  
 <!-- ./STAT -->
 <!-- <div align="center">   -->
@@ -67,7 +56,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue&labelColor=0D1117)&nbsp;
 <!-- ![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue-dot-js&labelColor=0D1117)&nbsp; -->
 
 ### Tools:
