@@ -14,7 +14,7 @@
 - 👨‍💻 @alisherOhunov
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=alisherOhunov&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
-<a href="#">
+<br><a href="#">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisherOhunov&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </a>
 <!-- <a href="#"> -->
