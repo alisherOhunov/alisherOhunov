@@ -13,7 +13,7 @@
 - 📫 How to reach me alisheroxunov1383@gmail.com
 - 👨‍💻 @alisherOhunov
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AlisherOkhunov96&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
+![Stats](https://github-readme-stats.vercel.app/api?username=alisherOhunov&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
 
 <!-- <a href="#"> -->
  
