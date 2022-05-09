@@ -1,8 +1,3 @@
-<!--  # Okhunov Alisher -->
-
-
-<!--  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Alisher+Okhunov&fontSize=90) -->
-<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&&width=1000height=600&section=header&text=Alisher+Okhunov&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
@@ -11,7 +6,7 @@
 - 🌱 I’m currently learning  Nodejs
 - 💞️ I’m looking to collaborate on web app & platform development 
 - 📫 How to reach me alisheroxunov1383@gmail.com
-- 👨‍💻 @alisherOhunov
+- 👨‍💻<a href="https://t.me/alisherOhunov">@alisherOhunov</a>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=alisherOhunov&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
 
