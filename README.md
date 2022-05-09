@@ -60,5 +60,5 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=alisherOhunov&theme=minimal" />
+ <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alisherOhunov&theme=vue" />
 </a>
