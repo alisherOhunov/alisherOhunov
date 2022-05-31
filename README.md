@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning  Nodejs
 - 💞️ I’m looking to collaborate on web app & platform development 
 - 📫 How to reach me alisheroxunov1383@gmail.com
-- 👨‍💻<a href="https://t.me/alisherOhunov">@alisherOhunov</a>
+- 👨‍💻 My telegram <a href="https://t.me/alisherOhunov">@alisherOhunov</a>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=alisherOhunov&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
 
