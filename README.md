@@ -25,7 +25,7 @@
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)&nbsp;
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-005C84?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=red)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-005C84?style=for-the-badge&logo=laravel&logoColor=red)&nbsp;
 
 ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)&nbsp;
 ### Tools:
