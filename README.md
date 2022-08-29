@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&&width=1000height=600&section=header&text=Alisher+Okhunov&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 - 👋 Hi, I’m Alisher Okhunov
-- 👀 I’m interested in JS, CSS, Bootstrap, HTML, Vue, Vuex 
+- 👀 I’m Software Engineer
 - 🌱 I’m currently learning  Nodejs
 - 💞️ I’m looking to collaborate on web app & platform development 
 - 📫 How to reach me alisheroxunov1383@gmail.com
