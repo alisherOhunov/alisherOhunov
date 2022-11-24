@@ -2,10 +2,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&&width=1000height=600&section=header&text=Alisher+Okhunov&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 - 👋 Hi, I’m Alisher Okhunov
-- 👀 I’m Software Engineer at  <a href="https://ukuya.biz/">Ukuya-Sdn-Bhd</a>
+- 👨‍💻 I’m Software Engineer at  <a href="https://ukuya.biz/">Ukuya-Sdn-Bhd</a>
 - 🌱 I’m currently working as a back-end developer
 - 📫 How to reach me alisheroxunov1383@gmail.com
-- 👨‍💻 My telegram <a href="https://t.me/alisherOhunov">@alisherOhunov</a>
+- 👀 My telegram <a href="https://t.me/alisherOhunov">@alisherOhunov</a>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=alisherOhunov&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
 
