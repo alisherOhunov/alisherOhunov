@@ -2,8 +2,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&&width=1000height=600&section=header&text=Alisher+Okhunov&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 - 👋 Hi, I’m Alisher Okhunov
-- 👀 I’m Software Engineer at Ukuya-Sdn-Bhd
-- 🌱 I’m currently woring as a back-end developer
+- 👀 I’m Software Engineer at  <a href="https://ukuya.biz/">Ukuya-Sdn-Bhd</a>
+- 🌱 I’m currently working as a back-end developer
 - 📫 How to reach me alisheroxunov1383@gmail.com
 - 👨‍💻 My telegram <a href="https://t.me/alisherOhunov">@alisherOhunov</a>
 
