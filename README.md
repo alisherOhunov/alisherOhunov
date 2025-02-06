@@ -54,4 +54,23 @@
     <br>
 </div>
 
+<h2>Honors</h2>
+
+<p>Codewars: <img align="center" src="https://www.codewars.com/users/mrjakhongir/badges/large"/></p>
+
+LeetCode: [visit](https://leetcode.com/u/mrJakhongir/)
+
+HackerRank: [visit](https://www.hackerrank.com/profile/mrjakhongir)
+
+Here is a collection of badges I earned from completing Microsoft Learn's TypeScript modules:
+
+1. **Getting Started with TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/AlisherOkhunov-4653/2BFJ9X4V?sharingId=F0385FED6B3666FE)
+2. **Declare Variable Types in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/AlisherOkhunov-4653/3R57KQ7H?sharingId=F0385FED6B3666FE)
+3. **Implement Interfaces in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/AlisherOkhunov-4653/CFJYET79?sharingId=F0385FED6B3666FE)
+4. **Develop Typed Functions in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/AlisherOkhunov-4653/9XTR42ZU?sharingId=F0385FED6B3666FE)
+5. **Declare and Instantiate Classes in TypeScript**: [Badge]()
+6. **Generics in TypeScript**: [Badge]()
+7. **Work with External Libraries in TypeScript**: [Badge]()
+8. **Organize Code with Namespaces in TypeScript**: [Badge]()
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00bfbf,100:1e3c72&height=120&section=footer)
