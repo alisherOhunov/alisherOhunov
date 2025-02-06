@@ -56,11 +56,7 @@
 
 <h2>Honors</h2>
 
-<p>Codewars: <img align="center" src="https://www.codewars.com/users/mrjakhongir/badges/large"/></p>
-
-LeetCode: [visit](https://leetcode.com/u/mrJakhongir/)
-
-HackerRank: [visit](https://www.hackerrank.com/profile/mrjakhongir)
+HackerRank: [visit](https://www.hackerrank.com/profile/alisheroxunov131)
 
 Here is a collection of badges I earned from completing Microsoft Learn's TypeScript modules:
 
