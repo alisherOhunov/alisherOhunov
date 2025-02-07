@@ -54,6 +54,11 @@
     <br>
 </div>
 
+<h2>Sertifications</h2>
+
+- [Introduction to Career Skills in Software Development](https://www.linkedin.com/learning/certificates/61661ef71be56952f898e4935dea16483775cbebcfb0c736521d4a3f4d204530?trk=share_certificate)
+- [JavaScript (Basic)](https://www.hackerrank.com/certificates/4bc54b6c6e46)
+
 <h2>Honors</h2>
 
 HackerRank: [visit](https://www.hackerrank.com/profile/alisheroxunov131)
@@ -64,9 +69,5 @@ Here is a collection of badges I earned from completing Microsoft Learn's TypeSc
 2. **Declare Variable Types in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/AlisherOkhunov-4653/3R57KQ7H?sharingId=F0385FED6B3666FE)
 3. **Implement Interfaces in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/AlisherOkhunov-4653/CFJYET79?sharingId=F0385FED6B3666FE)
 4. **Develop Typed Functions in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/AlisherOkhunov-4653/9XTR42ZU?sharingId=F0385FED6B3666FE)
-5. **Declare and Instantiate Classes in TypeScript**: [Badge]()
-6. **Generics in TypeScript**: [Badge]()
-7. **Work with External Libraries in TypeScript**: [Badge]()
-8. **Organize Code with Namespaces in TypeScript**: [Badge]()
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00bfbf,100:1e3c72&height=120&section=footer)
