@@ -1,73 +1,136 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00bfbf,100:1e3c72&height=200&section=header&text=Alisher%20Okhunov&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=40)
 
-## 👋 Hi, I’m Alisher Okhunov
-- 👨‍💻 I’m a Software Engineer at [Ukuya-Sdn-Bhd](https://ukuya.biz/)
-- 🌱 I’m currently working as a back-end developer
-- 📫 How to reach me: [alisheroxunov1383@gmail.com](mailto:alisheroxunov1383@gmail.com)
-- 👀 My Telegram: [@alisherOhunov](https://t.me/alisherOhunov)
+# 👋 Hi, I'm Alisher Okhunov
+
+Backend Engineer with 2+ years of experience building scalable web applications and REST APIs using Node.js, NestJS, Laravel, and MySQL.  
+Currently working remotely with an international team (Malaysia).
+
+I focus on clean architecture, performance optimization, and maintainable backend systems.
 
 ---
 
+## 💼 Professional Summary
+
+- 👨‍💻 Backend Developer (Node.js / NestJS / Laravel)
+- 🌍 Remote Software Engineer at Ukuya Sdn Bhd
+- 🏗 Experience with microservices architecture
+- ⚡ Strong focus on performance & database optimization
+- 🔄 Experience maintaining and improving legacy systems
+- 🤝 Comfortable working in distributed remote teams
+
+---
+
+## 🚀 Tech Stack
+
+### Backend
+- Node.js
+- NestJS
+- PHP
+- Laravel
+
+### Database
+- MySQL
+- Prisma ORM
+- Eloquent ORM
+
+### API & Architecture
+- RESTful APIs
+- GraphQL
+- Microservices Architecture
+- Swagger / API Documentation
+
+### Testing & Tools
+- Jest
+- PHPUnit
+- Postman
+- Git
+- Linux
+
+---
+
+## 🏗 Professional Experience
+
+### 🔹 Software Developer — Ukuya Sdn Bhd (Malaysia, Remote)
+**June 2023 – Present**
+
+- Designed and developed scalable RESTful APIs using Node.js & NestJS
+- Optimized MySQL queries for performance and reliability
+- Maintained and enhanced Laravel-based systems
+- Collaborated with frontend developers for seamless integration
+- Applied best practices for clean architecture and code maintainability
+
+### 🔹 Software Development Intern — Ukuya Sdn Bhd
+**Oct 2022 – March 2023**
+
+- Built a customer service queue management system (Laravel/PHP)
+- Implemented intelligent worker assignment algorithm
+- Designed database schema for real-time queue tracking
+- Improved operational efficiency through automation logic
+
+---
+
+## 🚀 Key Projects
+
+### 🏛 Government Permit & Visa Platform (SANSOLS)
+Tech: Node.js, NestJS, MySQL  
+- Backend services for government-approved worker permit system
+- API design for multi-stage approval workflow
+- Secure data handling & performance optimization
+
+### 🎓 Admission Management System
+Tech: Laravel, PHP, MySQL  
+- Multi-stage application workflow
+- Document upload & validation system
+- Admin dashboard with approve/reject/resubmit flow
+- Designed structured database for audit tracking
+
+### 🛒 Sales Management System
+Tech: Laravel, MySQL  
+- Role-based access control
+- Full CRUD operations for products, invoices, clients
+- Admin & client portals
+
+### ⏳ Queue Management System
+Tech: Laravel, MySQL  
+- Dynamic worker assignment logic
+- Real-time queue updates
+- Reduced customer wait time
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-    <a href="https://github.com/alisherOhunov/github-readme-stats"><img alt="Alisher's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alisherOhunov&show_icons=true&hide_border=true&count_private=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/></a>
-    <a href="https://github.com/alisherOhunov/github-readme-streak-stats"><img alt="Alisher's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alisherOhunov&theme=highcontrast&hide_border=true"/></a>
-    <a href="https://github.com/alisherOhunov/github-readme-stats"><img alt="Alisher's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisherOhunov&langs_count=8&layout=compact&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=alisherOhunov&show_icons=true&hide_border=true&count_private=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisherOhunov&theme=highcontrast&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisherOhunov&langs_count=6&layout=compact&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ---
 
-### 🚀 Main Skills:
-<div align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-    <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="Vuetify" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-</div>
+## 📜 Certifications
 
-### 🛠️ Tools:
-<div align="center">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" />
-    <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</div>
+- Introduction to Career Skills in Software Development
+- JavaScript (Basic) – HackerRank
+- Microsoft Learn TypeScript Badges
 
-### 🌐 Areas of Interest:
-<div align="center">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-</div>
+---
 
-<div align="center">
-    <br>
-    <p align="center"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{alisherOhunov}/count.svg" /></p> 
-    <br>
-</div>
+## 🌍 Languages
 
-<h2>Sertifications</h2>
+- English — Professional Working Proficiency
+- Uzbek — Native
 
-- [Introduction to Career Skills in Software Development](https://www.linkedin.com/learning/certificates/61661ef71be56952f898e4935dea16483775cbebcfb0c736521d4a3f4d204530?trk=share_certificate)
-- [JavaScript (Basic)](https://www.hackerrank.com/certificates/4bc54b6c6e46)
+---
 
-<h2>Honors</h2>
+## 📫 Contact Me
 
-HackerRank: [visit](https://www.hackerrank.com/profile/alisheroxunov131)
+- 📧 Email: alisheroxunov1383@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/alisherohunov  
+- 📱 Telegram: @alisherOhunov  
 
-Here is a collection of badges I earned from completing Microsoft Learn's TypeScript modules:
-
-1. **Getting Started with TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/AlisherOkhunov-4653/2BFJ9X4V?sharingId=F0385FED6B3666FE)
-2. **Declare Variable Types in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/AlisherOkhunov-4653/3R57KQ7H?sharingId=F0385FED6B3666FE)
-3. **Implement Interfaces in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/AlisherOkhunov-4653/CFJYET79?sharingId=F0385FED6B3666FE)
-4. **Develop Typed Functions in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/AlisherOkhunov-4653/9XTR42ZU?sharingId=F0385FED6B3666FE)
+---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00bfbf,100:1e3c72&height=120&section=footer)
