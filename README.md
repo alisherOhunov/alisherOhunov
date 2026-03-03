@@ -101,11 +101,7 @@ Tech: Laravel, MySQL
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alisherOhunov&show_icons=true&hide_border=true&count_private=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisherOhunov&theme=highcontrast&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisherOhunov&langs_count=6&layout=compact&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ---
@@ -113,7 +109,7 @@ Tech: Laravel, MySQL
 ## 📜 Certifications
 
 - Introduction to Career Skills in Software Development
-- JavaScript (Basic) – HackerRank
+- JavaScript – HackerRank
 - Microsoft Learn TypeScript Badges
 
 ---
